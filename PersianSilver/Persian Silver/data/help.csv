@@ -1,0 +1,38 @@
+menu_info_type,type of unit and (LEVEL) required to purchase
+menu_info_cost,cost in GOLD/FOOD/WOOD to buy unit or building
+menu_info_power,ATTACK power of unit
+menu_info_produce,GOLD/FOOD/WOOD produced by building per turn
+menu_info_health,amount of HEALTH against attacks
+produce,amount of GOLD/FOOD/WOOD available
+gold,amount of GOLD/FOOD/WOOD increase per turn
+menu,unit type and ATTACK/HEALTH stats
+player,player name and current (LEVEL)
+next,ends turn and hands control to opponent
+reset,resets the game and starts over
+help,game tutorial
+town,source of civilianS: LABOURERS, ARCHITECTS and ENGINEERS
+farm,produces FOOD required to make units and civilians
+woodcutter,produces WOOD required to make buildings
+temple,provides access to LEVEL 1, MOUNTAIN and WATER upgrades
+market,produces GOLD by trading
+mine,produces GOLD by mining
+university,provides access to LEVEL 2 and 3 upgrades
+barracks,enables training of SOLDIERS, ARCHERS and the HERO
+stables,enables training of HORSES, KNIGHTS and HORSE ARCHERS
+factory,enables construction of CATAPULTS and CANNONS
+labourer,can build a FARM, WOODCUTTER, TEMPLE or MARKET
+architect,can build a MINE, UNIVERSITY or TOWN
+engineer, can build a BARRACKS, STABLES or FACTORY
+soldier,basic infantry unit
+archer,basic ranged infantry unit
+hero,super infantry unit with great strength and health 
+horse,basic mounted unit
+knight,armored mounted unit
+horse archer,ranged mounted unit
+catapult,basic siege weapon
+cannon,advanced siege weapon
+level1,unlocks many advanced buildings and units
+level2,unlocks specialized troops and buildings
+level3,unlocks master level troops and upgrades
+mountain,enables movement and building on mountains
+water,enables movement and building on water

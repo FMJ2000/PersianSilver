@@ -1,0 +1,13 @@
+PERSIAN SILVER is a strategic city-building game, where the goal is to grow an economy, train a military and destroy the opponent.
+SPLIT-SCREEN: play split-screen on one computer, taking turn to use the map.
+MULTIPLAYER: two computer mode on the same LAN: one player selects host and the other client, then enter the name displayed on
+the opponent's computer followed by enter. This will connect two computers on the same LAN.
+RESOURCES: there are three resources in the game: GOLD/FOOD/WOOD. These can be produced by the different buildings.
+BUILD: LEFT click on a building or unit then select an item in the menu to build it. Make sure you have enough GOLD/FOOD/WOOD.
+If it is a unit building the building, the unit will continue working there and not available any longer.
+STATS: each unit and building has POWER and HEALTH, showing its power to attack and resistance against attacks, units also have
+moving and attacking DISTANCE, showing its mobility and range.
+MOVE: LEFT click on a unit then LEFT click on its surrounding yellow circles to move it there.
+ATTACK: LEFT click on a unit then RIGHT click on an opponent unit or building to attack it. Attacking reduces the enemies' health.
+DESTROY: destoy an enemy unit or building by reducing its health to zero.
+LEVELS: items have a required level to build indicated by the () next to its name. Upgrade your nation at TEMPLE and UNIVERSITY.

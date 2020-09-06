@@ -1,0 +1,13 @@
+town,labourer,architect,engineer
+labourer,farm,woodcutter,temple,market
+architect,mine,university,town,keep
+engineer,barracks,stables,factory,fort
+temple,level1,mountain,water
+university,level2,level3
+barracks,soldier,archer,hero
+stables,horse,knight,horse_archer
+factory,catapult,cannon
+soldier,soldier_u
+archer,archer_u
+horse,horse_u
+knight,knight_u
